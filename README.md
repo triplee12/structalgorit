@@ -23,3 +23,6 @@ Linked List − A Linked List contains the connection link to the first link cal
 
 ### Types Of Linked List
 	* Single Linked List
+
+## Sort Algorithm
+- Elementary sorts : selection sort, insertion sort and bubble sort
