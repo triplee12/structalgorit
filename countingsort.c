@@ -9,7 +9,9 @@
  */
 void counting_sort(int a[], int N)
 {
-	int i, j, b[N], count[], M[];
+	int i, j, b[N];
+	int M = a[0];
+	int count[M + 1];
 
 	for (j = 0; j < M; j++)
 		count[j] = 0;
