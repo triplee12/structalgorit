@@ -27,4 +27,5 @@ Linked List − A Linked List contains the connection link to the first link cal
 ## Sort Algorithm
 - Elementary sorts : selection sort, insertion sort and bubble sort
 - Shellsort
+- Counting sort or Distribution count sort
 - Quicksort
